@@ -1,0 +1,79 @@
+Universal Catering Service - Required Images
+============================================
+
+SLIDER IMAGES (3 images - Currently using online demo images):
+---------------------------------------------------------------
+The slider is currently using demo images from Unsplash.
+To download and use local images:
+
+1. Open: assets/images/download_event_images.html in your browser
+2. Download each slider image and save as:
+   - universal-catering-service-slider1.jpg
+   - universal-catering-service-slider2.jpg
+   - universal-catering-service-slider3.jpg
+
+OR use these direct URLs (currently active in index.html):
+- https://images.unsplash.com/photo-1519167758481-83f550bb49b3 (Slider 1)
+- https://images.unsplash.com/photo-1511578314322-379afb476865 (Slider 2)
+- https://images.unsplash.com/photo-1555939594-58d7cb561ad1 (Slider 3)
+
+MENU 1 IMAGES (3 images - Currently using online demo images):
+---------------------------------------------------------------
+The Menu 1 section is currently using demo images from Unsplash.
+To download and use local images:
+
+1. Open: assets/images/download_event_images.html in your browser
+2. Download each menu image and save as:
+   - universal-catering-service-menu1-item1.jpg (Appetizers)
+   - universal-catering-service-menu1-item2.jpg (Main Courses)
+   - universal-catering-service-menu1-item3.jpg (Desserts)
+
+OR use these direct URLs (currently active in index.html):
+- https://images.unsplash.com/photo-1544025162-d76694265947 (Appetizers)
+- https://images.unsplash.com/photo-1504674900247-0877df9cc836 (Main Courses)
+- https://images.unsplash.com/photo-1551024506-0bccd828d307 (Desserts)
+
+MENU 2 IMAGES (3 images - Currently using online demo images):
+---------------------------------------------------------------
+The Menu 2 section is currently using demo images from Unsplash.
+To download and use local images:
+
+1. Open: assets/images/download_event_images.html in your browser
+2. Download each menu image and save as:
+   - universal-catering-service-menu2-item1.jpg (Buffet Style)
+   - universal-catering-service-menu2-item2.jpg (Plated Service)
+   - universal-catering-service-menu2-item3.jpg (Beverages)
+
+OR use these direct URLs (currently active in index.html):
+- https://images.unsplash.com/photo-1517248135467-4c7edcad34c4 (Buffet)
+- https://images.unsplash.com/photo-1414235077428-338989a2e8c0 (Plated)
+- https://images.unsplash.com/photo-1556911220-e15b29be8c8f (Beverages)
+
+EVENT GALLERY IMAGES (6 images - Currently using online demo images):
+---------------------------------------------------------------------
+The event-image.html page is currently using demo images from Unsplash.
+To download and use local images:
+
+1. Open: assets/images/download_event_images.html in your browser
+2. Download each image and save as:
+   - gallery1.jpg (Wedding Event)
+   - gallery2.jpg (Corporate Gathering)
+   - gallery3.jpg (Birthday Celebration)
+   - gallery4.jpg (Anniversary Party)
+   - gallery5.jpg (Graduation Event)
+   - gallery6.jpg (Festival Celebration)
+
+OR use these direct URLs (currently active in event-image.html):
+- https://images.unsplash.com/photo-1519167758481-83f550bb49b3 (Wedding)
+- https://images.unsplash.com/photo-1511578314322-379afb476865 (Corporate)
+- https://images.unsplash.com/photo-1530103862676-de8c9debad1d (Birthday)
+- https://images.unsplash.com/photo-1464207687429-7505649dae38 (Anniversary)
+- https://images.unsplash.com/photo-1556910096-6f5e72db6803 (Graduation)
+- https://images.unsplash.com/photo-1555939594-58d7cb561ad1 (Festival)
+
+NOTE: 
+- Event images are currently loading from Unsplash (free stock photos)
+- Placeholder images will display automatically if local files don't exist
+- All images should be in JPG format
+- Images will display with "Universal Catering Service" text until actual images are added
+
